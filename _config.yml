@@ -3,7 +3,7 @@ title: Haney Shoes
 email: haneyshoes@gmail.com
 url: haneyshoestore.com
 description: "A family-owned shoe store in Omaha, NE offering the region's largest selection of safety-toe and soft-toe workboots from Red Wing, Keen, Timberland, Wolverine, and more. Also offers a large selection of walking, casual and athletic shoes and individual fitting for every customer."
-skills: "Custom Fitting - Casual and Safety Footwear - Work Apparel"
+skills: "Custom Fitting - Casual and Safety Footwear - Work Apparel - Mobile Shoe Truck"
 meta_author: Noto Alex
 
 # Google webmaster tools
@@ -31,9 +31,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Haney Shoes 2016
+  copyright: Haney Shoes
   location: Location
-  social: Around the Web
+  social: Other Locations
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -53,6 +53,7 @@ social:
 address:
   - line: 6060 Maple St
   - line: Omaha, NE 68104
+  - line: 402-556-2022
 
 # Credits content
 credits: 'Site created by Alex Noto. Original theme courtesy of Start Bootstrap.'
