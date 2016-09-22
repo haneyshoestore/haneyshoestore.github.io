@@ -3,7 +3,7 @@ title: Haney Shoes
 email: haneyshoes@gmail.com
 url: haneyshoestore.com
 description: "A family-owned shoe store in Omaha, NE offering the region's largest selection of safety-toe and soft-toe workboots from Red Wing, Keen, Timberland, Wolverine, and more. Also offers a large selection of walking, casual and athletic shoes and individual fitting for every customer."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Custom Fitting - Casual and Safety Footwear - Work Apparel"
 meta_author: Noto Alex
 
 # Google webmaster tools
@@ -24,14 +24,14 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: F70000 #80B3FF
+  primary: D92626 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: FAE9C3 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Haney Shoes 2016
   location: Location
   social: Around the Web
   credits: Credits
@@ -51,11 +51,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 6060 Maple St
+  - line: Omaha, NE 68104
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Site created by Alex Noto. Original theme courtesy of Start Bootstrap.'
 
 # Build settings
 markdown: kramdown
