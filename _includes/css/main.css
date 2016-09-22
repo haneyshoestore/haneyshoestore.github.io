@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    color: red;
 }
 
 p {
@@ -58,11 +59,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #FAE9C3;
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #FAE9C3;
     background-color: #{{ site.color.primary }};
 }
 
@@ -81,7 +82,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #FAE9C3;
     background: #{{ site.color.primary }};
 }
 
@@ -453,4 +454,11 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+/* ----------------------------- Custom ----------------------------------*/
+
+.haneyheader {
+  width: auto;
+  height: 150px;
 }

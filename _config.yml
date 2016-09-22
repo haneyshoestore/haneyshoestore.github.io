@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Haney Shoes
+email: haneyshoes@gmail.com
+url: haneyshoestore.com
+description: "A family-owned shoe store in Omaha, NE offering the region's largest selection of safety-toe and soft-toe workboots from Red Wing, Keen, Timberland, Wolverine, and more. Also offers a large selection of walking, casual and athletic shoes and individual fitting for every customer."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Noto Alex
 
 # Google webmaster tools
 google_verify:
@@ -20,13 +20,13 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: F70000 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  secondary: FAE9C3 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
