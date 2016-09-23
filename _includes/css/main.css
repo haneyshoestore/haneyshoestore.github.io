@@ -488,3 +488,18 @@ footer .footer-below {
 .footer-above {
   color: #FAE9C3;
 }
+
+.haneynav {
+  height: 110px;
+  width: auto;
+  position: absolute;
+  top: 0;
+  left: 100px;
+  -webkit-transition: height .3s;
+  -moz-transition: height .3s;
+  transition: height .3s;
+}
+
+.haneyshrink {
+  height: 80px;
+}
