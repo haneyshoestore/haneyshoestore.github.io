@@ -460,13 +460,65 @@ footer .footer-below {
 /* ----------------------------- Custom ----------------------------------*/
 
 .haneyheader {
+  background-image: url('img/haneyflatmd.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   width: auto;
-  height: 150px;
+  height: 60px;
+}
+
+.haneynav {
+  background-image: url('img/haneyheader.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 150px;
+  height: 60px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
 }
 
 .brannock {
+  background-image: url('img/brannock.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   width: auto;
-  height: 200px;
+  height: 75px;
+}
+
+@media(min-width:768px) {
+  .haneyheader {
+    width: auto;
+    height: 150px;
+  }
+
+  .haneynav {
+    width: 200px;
+    height: 110px;
+    position: absolute;
+    top: 0;
+    left: 100px;
+    transform: translate(0, 0);
+    -webkit-transition: height .3s;
+    -moz-transition: height .3s;
+    transition: height .3s;
+  }
+
+  .haneyshrink {
+    height: 80px;
+  }
+
+  .brannock {
+    width: auto;
+    height: 200px;
+  }
+}
+
+@media(min-width:768px) {
 }
 
 #about {
@@ -487,19 +539,4 @@ footer .footer-below {
 
 .footer-above {
   color: #FAE9C3;
-}
-
-.haneynav {
-  height: 110px;
-  width: auto;
-  position: absolute;
-  top: 0;
-  left: 100px;
-  -webkit-transition: height .3s;
-  -moz-transition: height .3s;
-  transition: height .3s;
-}
-
-.haneyshrink {
-  height: 80px;
 }
