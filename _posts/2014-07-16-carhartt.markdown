@@ -1,0 +1,13 @@
+---
+layout: default
+title: Carhartt
+modal-id: 3
+date: 2014-07-16
+img: brands/carhartt.jpg
+alt: image-alt
+website: www.carhartt.com
+address: http://www.carhartt.com
+category: Apparel, Work, Casual
+description: Starting in 1889 with only 2 sewing machines and 5 employees, Hamilton Carhartt established Hamilton Carhartt & Company. Under the motto “Honest value for an honest dollar,” the Carhartt union-made bib overall was created, and with it an ideal garment for workers. Carhartt now employs 2,300 American workers, more than 1,000 UFCW union members. Their “Made in the USA” line is inspired by American workers and is built in four factories in Kentucky and Tennessee. We stock Carhartt work and casual apparel, including shirts, jeans, coats, overalls, and accessories.
+
+---

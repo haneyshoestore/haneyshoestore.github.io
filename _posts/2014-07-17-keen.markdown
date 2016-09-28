@@ -1,0 +1,13 @@
+---
+layout: default
+title: KEEN Footwear
+modal-id: 2
+date: 2014-07-17
+img: brands/keen.png
+alt: image-alt
+website: www.keenfootwear.com
+address: http://www.keenfootwear.com
+category: Footwear, Work, Casual, Sandals
+description: KEEN began by asking a simple design question - Can a sandal protect the toes? The answer was yes. This one radical departure for sandals inspired the overriding KEEN philosophy of hybrid innovation, of striving to create new possibilities in everything they do, pushing themselves to discover and implement original ideas in their products and challenging themselves to consider each choice they make. We are excited to carry several safety-toe and soft-toe work and casual models from Keen.
+
+---

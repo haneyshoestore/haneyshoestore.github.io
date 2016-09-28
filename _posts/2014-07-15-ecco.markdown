@@ -1,0 +1,13 @@
+---
+layout: default
+title: ECCO
+modal-id: 4
+date: 2014-07-15
+img: brands/ecco.jpg
+alt: image-alt
+website: www.ecco.com
+address: http://us.shop.ecco.com
+category: Footwear, Casual, Dress, Sandals
+description: True passion is the key to making great shoes. From drawing the first lines of an ECCO shoe to presenting their shoes in stores around the world, ECCO use the same care and attention to detail. For example, unlike most other global shoe brands, ECCO operates their own tanneries and shoe factories. And throughout their history, their philosophy has been to make shoes that are shaped to fit the foot, not the other way around. ECCO strives to deliver the highest quality standards, a great fit and good-looking shoes at a sensible price. We stock several models from ECCO, including casual, dress, and athletic styles.
+
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Clarks
+modal-id: 6
+date: 2014-07-13
+img: brands/clarks.jpg
+alt: image-alt
+website: www.clarksusa.com
+address: http://www.clarksusa.com
+category: Footwear, Casual, Dress
+description: Clarks has been making shoes for nearly 200 years, and their expertise reflects this rich history. A combination of invention and craftsmanship has remained at the heart of what they do. Over the years, Clarks has refined classic techniques, developed cutting-edge technologies, and crafted shoes that effortlessly combine style and comfort. And now, as always, every pair of Clarks shoes begins with a last carved by hand from a single block of hornbeam, advanced construction techniques, technologies and contemporary materials help deliver perfection tailor-made for the modern world. We stock several models from Clarks and Clarks Originals, including casual and dress styles.
+
+---
