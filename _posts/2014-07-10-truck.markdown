@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mobile Shoe Sales
-modal-id: 7
-date: 2014-07-12
-img: brannocksmall.png
+modal-id: 9
+date: 2014-07-10
+img: truck.jpg
 alt: image-alt
 website: www.redwingshoes.com
 address: http://www.redwingshoes.com

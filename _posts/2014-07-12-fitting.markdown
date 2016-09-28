@@ -1,0 +1,9 @@
+---
+layout: default
+title: Individual Fitting
+modal-id: 7
+date: 2014-07-12
+img: brannocksmall.png
+alt: image-alt
+description: Haney Shoes has been serving hardworking and hard-to-fit customers for nearly 75 years. We understand that feet come in different shapes and sizes, which is why we still measure the length and width of both of your feet to ensure that you get the best fit possible. We also know how each of our shoes fit so that we can give you the best recommendations. We'll even put them on you and lace them up. Just walk in and have a seat. We'll do the rest. Call us old-fashioned, but we believe that sometimes the old ways are the best ways.
+---

@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Full Service
+title: One-Stop Shop
 modal-id: 8
 date: 2014-07-11
-img: brands/redwing.png
+img: accessories.jpg
 alt: image-alt
-website: www.redwingshoes.com
-address: http://www.redwingshoes.com
-category: Footwear, Work, Casual
-description: Red Wing Shoes carries a full line of work boots for all industries and work sites that are comfortable enough for all day wear. For over a century Red Wing purpose-built footwear has been at the spearhead of innovation in the standard of excellence for work boots. We are proud to carry several soft-toe and safety-toe models from Red Wing, Red Wing Heritage, Irish Setter by Red Wing, and Worx by Red Wing.
+description: There's more to buying a pair of shoes than simply buying a pair of shoes. We carry everything you need to ensure that your investment stays looking and feeling like new. Your shoes will eventually begin to lose some of their original structure, which is why we offer insoles providing several levels of support from brands like Spenco, Sole, and New Balance. When they begin to lose their luster, we'll help you find the perfect leather cream or conditioner and other care products, including brushes, protective sprays, cleaners, toe guards, and rubber overshoes. And if you need a new pair of laces, we carry several lengths of athletic, casual, boot and leather laces. 
 ---
