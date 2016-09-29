@@ -49,7 +49,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /*content: "\f005";*/
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -64,7 +64,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #FAE9C3;
-    background-color: #{{ site.color.primary }};
+    background-color: transparent;
 }
 
 hr.star-primary {
@@ -83,7 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #FAE9C3;
-    background: #{{ site.color.primary }};
+    /*background: #{{ site.color.primary }};*/
 }
 
 header .container {
@@ -331,7 +331,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #233140;
 }
 
 .floating-label-form-group input,
@@ -367,7 +367,7 @@ section.success {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid #233140;
 }
 
 .floating-label-form-group-with-value label {
@@ -380,7 +380,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #233140;
 }
 
 footer {
@@ -516,8 +516,18 @@ footer .footer-below {
 
 /* ----------------------------- Custom ----------------------------------*/
 
+.headerbg {
+  background-image: url('img/fitting.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.headeroverlay {
+  background: rgba(206, 36, 36, 0.6);
+}
+
 .haneyheader {
-  background-image: url('img/haneyflatmd.jpg');
+  background-image: url('img/haneyflatmd.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -600,6 +610,10 @@ footer .footer-below {
 
 #contact {
   color: #D92626;
+}
+
+#contactForm {
+  border-color: {{ site.color.secondary-dark }};
 }
 
 .shane {
