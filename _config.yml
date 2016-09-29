@@ -32,9 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: Haney Shoes
-  location: Location
-  social: Other Locations
-  credits: Credits
+  benson: Benson
+  redwing: Red Wing Store
+  lincoln: Lincoln
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,10 +50,20 @@ social:
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
+benson:
   - line: 6060 Maple St
   - line: Omaha, NE 68104
   - line: 402-556-2022
+
+redwing:
+  - line: 5018 S 108th St
+  - line: Omaha, NE 68137
+  - line: 402-339-1542
+
+lincoln:
+  - line: 6133 Havelock Ave
+  - line: Lincoln, NE 68507
+  - line: 402-466-7175
 
 # Credits content
 credits: 'Site created by Alex Noto. Original theme courtesy of Start Bootstrap.'

@@ -4,37 +4,28 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>{{ site.footer.benson }}</h3>
                         <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                            {% for benson in site.benson %}
+                                {{ benson.line }} <br>
 		                    {% endfor %}
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
-                        <ul class="list-inline">
-                            <li>
-                                Red Wing Store
-                                <br>
-                                5018 S 108th St, Omaha, NE 68137
-                                <br>
-                                402-339-1542
-                            </li>
-                            <br>
-                            <br>
-                            <li>
-                                Lincoln Store
-                                <br>
-                                6133 Havelock Ave, Lincoln, NE 68507
-                                <br>
-                                402-466-7175
-                            </li>
-                        </ul>
+                        <h3>{{ site.footer.redwing }}</h3>
+                        <p>
+                            {% for redwing in site.redwing %}
+                                {{ redwing.line }} <br>
+		                    {% endfor %}
+                        </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        <h3>{{ site.footer.lincoln }}</h3>
+                        <p>
+                            {% for lincoln in site.lincoln %}
+                                {{ lincoln.line }} <br>
+		                    {% endfor %}
+                        </p>
                     </div>
                 </div>
             </div>

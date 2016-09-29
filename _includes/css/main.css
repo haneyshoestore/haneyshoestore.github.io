@@ -591,6 +591,7 @@ footer .footer-below {
 #services {
   color: #D92626;
   margin-top: -150px;
+  margin-bottom: -25px;
 }
 
 .modal-content {
@@ -599,6 +600,10 @@ footer .footer-below {
 
 #contact {
   color: #D92626;
+}
+
+.shane {
+  margin-top: 50px;
 }
 
 .footer-above {
