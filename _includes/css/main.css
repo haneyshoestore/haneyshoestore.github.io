@@ -520,6 +520,7 @@ footer .footer-below {
   background-image: url('img/fitting.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .headeroverlay {
