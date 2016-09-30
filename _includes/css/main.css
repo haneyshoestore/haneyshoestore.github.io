@@ -551,6 +551,12 @@ footer .footer-below {
   height: 60px;
 }
 
+@media(min-width:1440px) {
+  .haneyheader {
+    background-image: url('img/haneyflatlg.png');
+  }
+}
+
 .haneynav {
   background-image: url('img/haneyheader.png');
   background-size: contain;
