@@ -331,7 +331,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #233140;
+    border-bottom: 1px solid grey;
 }
 
 .floating-label-form-group input,
@@ -367,7 +367,7 @@ section.success {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #233140;
+    border-left: 1px solid #eee;
 }
 
 .floating-label-form-group-with-value label {
@@ -380,7 +380,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #233140;
+    border-top: 1px solid grey;
 }
 
 footer {
@@ -517,10 +517,23 @@ footer .footer-below {
 /* ----------------------------- Custom ----------------------------------*/
 
 .headerbg {
-  background-image: url('img/fitting.jpg');
+  background-image: url('img/fittingmd.jpg');
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+@media(min-width:900px) {
+  .headerbg {
+    background-image: url('img/fittinglg.jpg');
+  }
+}
+
+@media(min-width:1600px) {
+  .headerbg {
+    background-image: url('img/fittingxl.jpg');
+  }
 }
 
 .headeroverlay {
