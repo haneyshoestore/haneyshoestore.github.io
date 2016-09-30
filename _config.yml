@@ -41,16 +41,24 @@ benson:
   - line: 6060 Maple St
   - line: Omaha, NE 68104
   - line: 402-556-2022
+  - line: Mon - Fri 9AM - 8:30PM
+  - line: Sat 9AM - 5:30PM  Sun Closed
 
 redwing:
   - line: 5018 S 108th St
   - line: Omaha, NE 68137
   - line: 402-339-1542
+  - line: Mon Thurs 9AM - 8PM
+  - line: Tues Wed Fri 9AM - 6PM
+  - line: Sat 9AM - 5PM  Sun Closed
 
 lincoln:
   - line: 6133 Havelock Ave
   - line: Lincoln, NE 68507
   - line: 402-466-7175
+  - line: Mon 9AM - 7PM
+  - line: Tues - Fri 9AM - 6PM
+  - line: Sat 9AM - 5PM  Sun Closed
 
 # Credits content
 credits: 'Site created by Alex Noto. Original theme courtesy of Start Bootstrap.'
