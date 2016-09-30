@@ -519,7 +519,7 @@ footer .footer-below {
 /* ----------------------------- Custom ----------------------------------*/
 
 .headerbg {
-  background-image: url('img/fittingmd.jpg');
+  background-image: url('img/fittingmed.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -528,13 +528,13 @@ footer .footer-below {
 
 @media(min-width:900px) {
   .headerbg {
-    background-image: url('img/fittinglg.jpg');
+    background-image: url('img/fittinglrg.jpg');
   }
 }
 
 @media(min-width:1600px) {
   .headerbg {
-    background-image: url('img/fittingxl.jpg');
+    background-image: url('img/fittingxlg.jpg');
   }
 }
 
