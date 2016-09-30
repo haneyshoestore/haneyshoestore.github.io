@@ -564,15 +564,6 @@ footer .footer-below {
   transform: translate(-50%, 0);
 }
 
-.brannock {
-  background-image: url('img/brannock.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: auto;
-  height: 75px;
-}
-
 .portfoliopic {
   width: 300px;
   height: auto;
@@ -599,11 +590,6 @@ footer .footer-below {
   .haneyshrink {
     height: 80px;
   }
-
-  .brannock {
-    width: auto;
-    height: 200px;
-  }
 }
 
 #about {
@@ -612,6 +598,32 @@ footer .footer-below {
 
 #portfolio {
   color: #D92626;
+}
+
+.listheader{
+  text-align: center;
+  font-size: 1.4em;
+  margin-bottom: 25px;
+}
+
+.brandslist {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1.25em;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+@media(min-width:768px) {
+  .brandslist li {
+    float: left;
+    width: 25%;
+  }
+
+  .brandslist {
+    margin-bottom: 150px;
+  }
 }
 
 #services {
