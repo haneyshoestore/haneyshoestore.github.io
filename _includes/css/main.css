@@ -505,6 +505,12 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+@media(max-width:768px) {
+  .close-modal {
+    display: none;
+  }
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.primary }} !important;
 }
