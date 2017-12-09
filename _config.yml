@@ -8,6 +8,7 @@ meta_author: Noto Alex
 
 # Google webmaster tools
 google_verify:
+  http://haneyshoestore.com/google5bc4ef7ab73c709c.html
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -66,3 +67,5 @@ credits: 'Site created by Alex Noto. Original theme courtesy of Start Bootstrap.
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
