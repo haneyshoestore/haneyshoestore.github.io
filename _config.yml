@@ -12,6 +12,7 @@ google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+  FA11C3EFBF42EB87B6FAE82F5434E12D
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
