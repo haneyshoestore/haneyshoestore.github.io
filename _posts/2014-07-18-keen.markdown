@@ -1,8 +1,8 @@
 ---
 layout: default
 title: KEEN Footwear
-modal-id: 2
-date: 2014-07-17
+modal-id: 1
+date: 2014-07-18
 img: brands/keen.png
 alt: image-alt
 website: www.keenfootwear.com
